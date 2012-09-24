@@ -112,7 +112,7 @@ int main()
         } else if (strcmp(input, "test") == 0) {
             table_del_inode(table, 0);
         } else if (strcmp(input, "set") == 0) {
-            inode_set_data(table, 1, "gangbang fetish");
+            inode_set_data(table, 1, "tessst");
         }
     }
 
